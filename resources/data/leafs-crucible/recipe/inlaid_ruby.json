@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": "leafs-crucible:ruby",
+    "X": "leafs-crucible:ruby_block"
+  },
+  "result": {
+    "id": "leafs-crucible:inlaid_ruby"
+  }
+}

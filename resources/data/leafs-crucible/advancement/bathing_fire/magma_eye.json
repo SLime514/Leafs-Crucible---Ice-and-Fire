@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:magma_eye"
+    },
+    "title": "双重浴火",
+    "description": "获得熔岩核心",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:bathing_fire/magma_pearl",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:magma_eye"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

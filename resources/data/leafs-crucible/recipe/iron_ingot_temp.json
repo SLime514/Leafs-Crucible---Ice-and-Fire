@@ -1,0 +1,9 @@
+{
+  "type": "leafs-crucible:temperature_furnace",
+  "ingredient": "minecraft:raw_iron",
+  "result": {
+    "id": "minecraft:iron_ingot"
+  },
+  "experience": 0.7,
+  "temperature": 5
+}

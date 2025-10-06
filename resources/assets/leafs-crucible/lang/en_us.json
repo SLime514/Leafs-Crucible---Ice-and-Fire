@@ -1,0 +1,81 @@
+{
+  "item.leafs-crucible.bathing_fire_rod": "Bathing Fire Rod",
+  "item.leafs-crucible.bathing_fire_powder": "Bathing Fire Powder",
+
+  "block.leafs-crucible.magma_rock": "Magma Rock",
+  "item.leafs-crucible.magma_core": "Magma Core",
+  "block.leafs-crucible.nether_ruby_ore": "Nether Ruby Ore",
+  "block.leafs-crucible.nether_iron_ore": "Nether Iron Ore",
+
+  "item.leafs-crucible.ruby": "Nether Ruby",
+  "item.leafs-crucible.inlaid_ruby": "Inlaid Ruby",
+  "block.leafs-crucible.ruby_block": "Ruby Block",
+
+  "item.leafs-crucible.ruby_sword": "Ruby Sword",
+  "item.leafs-crucible.ruby_pickaxe": "Ruby Pickaxe",
+  "item.leafs-crucible.ruby_axe": "Ruby Axe",
+  "item.leafs-crucible.ruby_shovel": "Ruby Shovel",
+  "item.leafs-crucible.ruby_hoe": "Ruby Hoe",
+
+  "item.leafs-crucible.bathing_fire_upgrade_smithing_template": "Bathing Fire Upgrade Smithing Template",
+  "item.leafs-crucible.incomplete_bathing_fire_upgrade_smithing_template": "Incomplete Bathing Fire Upgrade Smithing Template",
+
+  "item.leafs-crucible.ruby_helmet": "Ruby Helmet",
+  "item.leafs-crucible.ruby_chestplate": "Ruby Chestplate",
+  "item.leafs-crucible.ruby_leggings": "Ruby Leggings",
+  "item.leafs-crucible.ruby_boots": "Ruby Boots",
+
+  "item.leafs-crucible.magma_pearl": "Magma Pearl",
+  "item.leafs-crucible.magma_eye": "Magma Eye",
+
+  "item.leafs-crucible.magma_sword": "Magma Sword",
+  "item.leafs-crucible.magma_pickaxe": "Magma Pickaxe",
+  "item.leafs-crucible.magma_wand": "Magma Wand",
+  "item.leafs-crucible.magma_axe": "Magma Axe",
+
+  "itemGroup.leafs-crucible.bathing_fire_group": "Bathing Fire Group",
+
+  "item.leafs-crucible.frost_crystal": "Frost Crystal",
+  "item.leafs-crucible.ice_soul": "Ice Soul",
+  "item.leafs-crucible.frost_core": "Frost Core",
+  "item.leafs-crucible.frost_sword": "Frost Sword",
+  "item.leafs-crucible.frost_wand": "Frost Wand",
+  "item.leafs-crucible.frost_stick": "Frost Stick",
+  "item.leafs-crucible.frost_pearl": "Frost Pearl",
+  "item.leafs-crucible.frost_bow": "Frost Bow",
+  "item.leafs-crucible.frost_diamond": "Frost Diamond",
+  "item.leafs-crucible.frost_ingot": "Frost Ingot",
+
+  "itemGroup.leafs-crucible.ice_group": "Ice Group",
+
+  "item.leafs-crucible.raw_obsidian": "Raw Obsidian",
+  "item.leafs-crucible.crying_raw_obsidian": "Crying Raw Obsidian",
+  "item.leafs-crucible.melt_raw_obsidian": "Melt Obsidian",
+  "item.leafs-crucible.obsidian_stick": "Obsidian Stick",
+
+  "item.leafs-crucible.obsidian_helmet": "Obsidian Helmet",
+  "item.leafs-crucible.obsidian_chestplate": "Obsidian Chestplate",
+  "item.leafs-crucible.obsidian_leggings": "Obsidian Leggings",
+  "item.leafs-crucible.obsidian_boots": "Obsidian Boots",
+
+  "item.leafs-crucible.bathing_fire_helmet": "Bathing Fire Helmet",
+  "item.leafs-crucible.bathing_fire_chestplate": "Bathing Fire Chestplate",
+  "item.leafs-crucible.bathing_fire_leggings": "Bathing Fire Leggings",
+  "item.leafs-crucible.bathing_fire_boots": "Bathing Fire Boots",
+
+  "container.temperature_furnace": "Temperature Furnace",
+
+  "block.leafs-crucible.temperature_furnace": "Temperature Furnace",
+  "itemGroup.leafs-crucible.obsidian_group": "Obsidian Group",
+
+  "tag.item.leafs-crucible.magma_tool_repair_items": "Magma Tool Repair Items",
+  "tag.item.leafs-crucible.frost_tool_repair_items": "Frost Tool Repair Items",
+  "tag.block.leafs-crucible.incorrect_for_magma_tool": "Incorrect for Magma Tool",
+  "tag.block.leafs-crucible.incorrect_for_frost_tool": "Incorrect for Frost Tool",
+  "itemGroup.leafs-crucible.ruby_group": "Ruby Items",
+
+  "rei.category.leafs-crucible.bathing_fire_drop": "Bathing Fire Drop",
+  "rei.category.leafs-crucible.chance": "Chance: %s",
+
+  "block.leafs-crucible.soul_lava": "Soul Lava"
+}

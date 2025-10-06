@@ -1,0 +1,7 @@
+{
+  "type":"leafs-crucible:temperature_furnace",
+  "ingredient": "minecraft:raw_gold",
+  "result": {"id": "minecraft:gold_ingot"},
+  "experience": 10,
+  "temperature": 5
+}

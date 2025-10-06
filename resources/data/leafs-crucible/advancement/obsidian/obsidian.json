@@ -1,0 +1,32 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:raw_obsidian"
+    },
+    "title": "用力过猛",
+    "description": "大力击破黑曜石",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:root",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:raw_obsidian"
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "recipe": [
+      "leafs-crucible:temp_furnace"
+    ]
+  }
+}

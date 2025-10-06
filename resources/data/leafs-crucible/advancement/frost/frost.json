@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:frost_crystal"
+    },
+    "title": "无尽寒冰...",
+    "description": "获得冰霜水晶",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:root",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:frost_crystal"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

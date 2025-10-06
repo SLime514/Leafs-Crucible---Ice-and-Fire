@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:magma_rock"
+    },
+    "title": "富含岩浆的岩石!",
+    "description": "获得熔岩之石(通过...浴火?",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:bathing_fire/bathing_fire",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:magma_rock"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

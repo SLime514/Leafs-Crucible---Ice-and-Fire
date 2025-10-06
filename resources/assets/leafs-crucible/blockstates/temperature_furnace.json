@@ -1,0 +1,9 @@
+{
+  "variants": {
+    "facing=north": { "model": "leafs-crucible:block/temperature_furnace" },
+    "facing=east":  { "model": "leafs-crucible:block/temperature_furnace", "y": 90 },
+    "facing=south": { "model": "leafs-crucible:block/temperature_furnace", "y": 180 },
+    "facing=west":  { "model": "leafs-crucible:block/temperature_furnace", "y": 270 }
+
+  }
+}

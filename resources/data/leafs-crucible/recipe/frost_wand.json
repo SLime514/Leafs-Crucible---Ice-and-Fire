@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X",
+    "#",
+    "#"
+  ],
+  "key": {
+    "#": "leafs-crucible:frost_stick",
+    "X": "leafs-crucible:frost_core"
+  },
+  "result": {
+    "id": "leafs-crucible:frost_wand"
+  }
+}

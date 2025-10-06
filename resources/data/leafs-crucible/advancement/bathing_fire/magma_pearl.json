@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:magma_pearl"
+    },
+    "title": "镀浴火粉的珍珠?",
+    "description": "获得熔岩珍珠",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:bathing_fire/powder",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:magma_pearl"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

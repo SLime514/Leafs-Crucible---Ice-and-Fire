@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:raw_obsidian"
+    },
+    "title": "重塑",
+    "description": "不管怎样,你终于获得了黑曜石",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "leafs-crucible:obsidian/melt_raw_obsidian",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "minecraft:obsidian"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

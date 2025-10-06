@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    " # ",
+    "#X#",
+    " # "
+  ],
+  "key": {
+    "#": "leafs-crucible:bathing_fire_rod",
+    "X": "leafs-crucible:inlaid_ruby"
+  },
+  "result": {
+    "id": "leafs-crucible:magma_core"
+  }
+}

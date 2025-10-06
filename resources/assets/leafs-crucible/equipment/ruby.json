@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "leafs-crucible:ruby"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "leafs-crucible:ruby"
+      }
+    ]
+  }
+}

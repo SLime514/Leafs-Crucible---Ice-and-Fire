@@ -1,0 +1,23 @@
+{
+  "parent": "block/block",
+  "render_type": "translucent",
+  "textures": {
+    "particle": "leafs-crucible:block/soul_lava_still",
+    "still": "leafs-crucible:block/soul_lava_still",
+    "flow": "leafs-crucible:block/soul_lava_flow"
+  },
+  "elements": [
+    {
+      "from": [ 0, 0, 0 ],
+      "to": [ 16, 16, 16 ],
+      "faces": {
+        "down":  { "texture": "#flow", "cullface": "down" },
+        "up":    { "texture": "#flow", "cullface": "up" },
+        "north": { "texture": "#flow", "cullface": "north" },
+        "south": { "texture": "#flow", "cullface": "south" },
+        "west":  { "texture": "#flow", "cullface": "west" },
+        "east":  { "texture": "#flow", "cullface": "east" }
+      }
+    }
+  ]
+}

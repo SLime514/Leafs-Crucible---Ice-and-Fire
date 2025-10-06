@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "C#C",
+    "BXA",
+    "C#C"
+  ],
+  "key": {
+    "#": "leafs-crucible:raw_obsidian",
+    "X": "minecraft:furnace",
+    "B": "leafs-crucible:frost_core",
+    "A": "leafs-crucible:magma_eye",
+    "C": "minecraft:gold_block"
+  },
+  "result": {
+    "id": "leafs-crucible:temperature_furnace"
+  }
+}

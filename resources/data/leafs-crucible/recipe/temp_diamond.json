@@ -1,0 +1,7 @@
+{
+  "type":"leafs-crucible:temperature_furnace",
+  "ingredient": "minecraft:diamond",
+  "result": {"id": "minecraft:diamond"},
+  "experience": 100,
+  "temperature": 8
+}

@@ -1,0 +1,13 @@
+{
+  "type": "leafs-crucible:bathing_fire_drop",
+  "firstInput": {
+    "id": "leafs-crucible:bathing_fire_rod"
+  },
+  "secondInput": {
+    "id": "leafs-crucible:frost_stick"
+  },
+  "result": {
+    "id": "leafs-crucible:obsidian_stick"
+  },
+  "chance": 0.5
+}

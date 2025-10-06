@@ -1,0 +1,81 @@
+{
+  "item.leafs-crucible.bathing_fire_rod": "浴火棒",
+  "item.leafs-crucible.bathing_fire_powder": "火魔法精华",
+
+  "block.leafs-crucible.magma_rock": "熔岩石",
+  "item.leafs-crucible.magma_core": "熔岩核心",
+  "block.leafs-crucible.nether_ruby_ore": "下界红宝石矿石",
+  "block.leafs-crucible.nether_iron_ore": "下界铁矿石",
+  "item.leafs-crucible.ruby": "红宝石",
+  "item.leafs-crucible.inlaid_ruby": "镶红宝石",
+  "block.leafs-crucible.ruby_block": "红宝石块",
+
+  "item.leafs-crucible.ruby_sword": "红宝石剑",
+  "item.leafs-crucible.ruby_pickaxe": "红宝石镐",
+  "item.leafs-crucible.ruby_axe": "红宝石斧",
+  "item.leafs-crucible.ruby_shovel": "红宝石铲",
+  "item.leafs-crucible.ruby_hoe": "红宝石锄",
+  "item.leafs-crucible.bathing_fire_upgrade_smithing_template": "浴火升级模版",
+  "item.leafs-crucible.incomplete_bathing_fire_upgrade_smithing_template": "残缺的浴火升级模版",
+
+  "item.leafs-crucible.ruby_helmet": "红宝石头盔",
+  "item.leafs-crucible.ruby_chestplate": "红宝石胸甲",
+  "item.leafs-crucible.ruby_leggings": "红宝石护腿",
+  "item.leafs-crucible.ruby_boots": "红宝石靴子",
+
+  "item.leafs-crucible.magma_pearl": "熔岩珍珠",
+  "item.leafs-crucible.magma_eye": "熔岩核心",
+
+  "item.leafs-crucible.magma_sword": "熔岩剑",
+  "item.leafs-crucible.magma_pickaxe": "熔岩镐",
+  "item.leafs-crucible.magma_wand": "熔岩魔杖",
+  "item.leafs-crucible.magma_axe": "熔岩斧",
+
+  "itemGroup.leafs-crucible.bathing_fire_group": "浴火物品",
+
+  "item.leafs-crucible.frost_crystal": "冰霜水晶",
+  "item.leafs-crucible.ice_soul": "冰魄",
+  "item.leafs-crucible.frost_core": "霜冻核心",
+  "item.leafs-crucible.frost_sword": "霜冻剑",
+  "item.leafs-crucible.frost_wand": "霜冻魔杖",
+  "item.leafs-crucible.frost_stick": "霜冻棍",
+  "item.leafs-crucible.frost_pearl": "霜冻珍珠",
+  "item.leafs-crucible.frost_bow": "冰霜弓",
+  "item.leafs-crucible.frost_diamond": "冰花水钻",
+  "item.leafs-crucible.frost_ingot": "冰花水钻锭",
+
+  "itemGroup.leafs-crucible.ice_group": "冰霜物品",
+
+  "item.leafs-crucible.raw_obsidian": "黑曜石碎片",
+  "item.leafs-crucible.crying_raw_obsidian": "哭泣黑曜石碎片",
+  "item.leafs-crucible.melt_raw_obsidian": "融化黑曜石碎片",
+  "item.leafs-crucible.obsidian_stick": "黑曜石棍",
+
+  "item.leafs-crucible.obsidian_helmet": "黑曜石头盔",
+  "item.leafs-crucible.obsidian_chestplate": "黑曜石胸甲",
+  "item.leafs-crucible.obsidian_leggings": "黑曜石护腿",
+  "item.leafs-crucible.obsidian_boots": "黑曜石靴子",
+
+  "item.leafs-crucible.bathing_fire_helmet": "浴火头盔",
+  "item.leafs-crucible.bathing_fire_chestplate": "浴火胸甲",
+  "item.leafs-crucible.bathing_fire_leggings": "浴火护腿",
+  "item.leafs-crucible.bathing_fire_boots": "浴火靴子",
+
+  "container.temperature_furnace": "温度熔炉",
+
+  "block.leafs-crucible.temperature_furnace": "温度熔炉",
+
+  "itemGroup.leafs-crucible.obsidian_group": "黑曜石物品",
+
+  "tag.item.leafs-crucible.magma_tool_repair_items": "熔岩工具修复物品",
+  "tag.item.leafs-crucible.frost_tool_repair_items": "冰霜工具修复物品",
+  "tag.block.leafs-crucible.incorrect_for_magma_tool": "熔岩工具不可用于此方块",
+  "tag.block.leafs-crucible.incorrect_for_frost_tool": "冰霜工具不可用于此方块",
+
+  "itemGroup.leafs-crucible.ruby_group": "红宝石物品",
+
+  "rei.category.leafs-crucible.bathing_fire_drop": "浴火掉落物合成",
+  "rei.category.leafs-crucible.chance": "概率: %s",
+
+  "block.leafs-crucible.soul_lava": "灵魂熔岩"
+}

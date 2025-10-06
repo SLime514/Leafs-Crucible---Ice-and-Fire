@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:magma_wand"
+    },
+    "title": "填海专家",
+    "description": "把火焰魔法注入浴火棒",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:bathing_fire/magma_eye",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:magma_wand"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

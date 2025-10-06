@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:temperature_furnace"
+    },
+    "title": "Seasons",
+    "description": "获得温度熔炉",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "leafs-crucible:obsidian/obsidian",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:temperature_furnace"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "leafs-crucible:bathing_fire_drop",
+  "firstInput": {
+    "id": "leafs-crucible:bathing_fire_powder"
+  },
+  "secondInput": {
+    "id": "minecraft:cobblestone"
+  },
+  "result": {
+    "id": "leafs-crucible:magma_rock"
+  },
+  "chance": 0.3
+}

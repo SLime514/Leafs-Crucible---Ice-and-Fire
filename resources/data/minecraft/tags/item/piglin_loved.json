@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "leafs-crucible:bathing_fire_helmet",
+    "leafs-crucible:bathing_fire_chestplate",
+    "leafs-crucible:bathing_fire_leggings",
+    "leafs-crucible:bathing_fire_boots"
+  ]
+}

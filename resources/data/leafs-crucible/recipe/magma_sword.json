@@ -1,0 +1,14 @@
+{
+  "type": "leafs-crucible:bathing_fire_drop",
+  "firstInput": {
+    "id": "leafs-crucible:magma_eye"
+  },
+  "secondInput": {
+    "id": "minecraft:golden_sword"
+  },
+  "result": {
+    "id": "leafs-crucible:magma_sword"
+  },
+  "chance": 0.3
+}
+

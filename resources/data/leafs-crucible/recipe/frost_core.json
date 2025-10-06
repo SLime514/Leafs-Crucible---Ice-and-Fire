@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "/#/",
+    "#X#",
+    "/#/"
+  ],
+  "key": {
+    "#": "leafs-crucible:frost_crystal",
+    "X": "leafs-crucible:ice_soul",
+    "/": "leafs-crucible:frost_stick"
+  },
+  "result": {
+    "id": "leafs-crucible:frost_core"
+  }
+}

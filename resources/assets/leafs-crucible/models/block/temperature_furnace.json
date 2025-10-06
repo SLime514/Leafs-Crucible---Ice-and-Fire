@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "leafs-crucible:block/temperature_furnace_side",
+    "down":     "leafs-crucible:block/temperature_furnace_top",
+    "up":       "leafs-crucible:block/temperature_furnace_top",
+    "north":    "leafs-crucible:block/temperature_furnace_front",
+    "east":     "leafs-crucible:block/temperature_furnace_side",
+    "south":    "leafs-crucible:block/temperature_furnace_side",
+    "west":     "leafs-crucible:block/temperature_furnace_side"
+  }
+}

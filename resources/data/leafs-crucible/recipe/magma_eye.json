@@ -1,0 +1,13 @@
+{
+  "type": "leafs-crucible:bathing_fire_drop",
+  "firstInput": {
+    "id": "leafs-crucible:bathing_fire_powder"
+  },
+  "secondInput": {
+    "id": "leafs-crucible:magma_pearl"
+  },
+  "result": {
+    "id": "leafs-crucible:magma_eye"
+  },
+  "chance": 1
+}

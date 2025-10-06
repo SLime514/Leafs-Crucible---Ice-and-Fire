@@ -1,0 +1,11 @@
+{
+  "type": "leafs-crucible:bathing_fire",
+  "originalItem": {
+    "count": 1,
+    "id": "minecraft:cobblestone"
+  },
+  "result": {
+    "count": 1,
+    "id": "leafs-crucible:magma_rock"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": "leafs-crucible:ruby"
+  },
+  "result": {
+    "id": "leafs-crucible:ruby_boots"
+  }
+}

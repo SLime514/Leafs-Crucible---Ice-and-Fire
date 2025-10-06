@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smithing_transform",
+  "template": "leafs-crucible:bathing_fire_upgrade_smithing_template",
+  "base": "leafs-crucible:ruby_helmet",
+  "addition": "leafs-crucible:magma_eye",
+  "result": {
+    "id": "leafs-crucible:bathing_fire_helmet"
+  }
+}

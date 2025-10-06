@@ -1,0 +1,49 @@
+{
+	"schemaVersion": 1,
+	"id": "leafs-crucible",
+	"version": "1.4.0.16",
+	"name": "Leafs Crucible Ice and Fire",
+	"description": "leaf的炼金炉: 冰萃火炼，一个以冰与火为题的魔法Mod.",
+	"authors": [
+		"Leaf",
+		"B站: 小远-MC"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/leafs-crucible/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"leaf.iceandfire.LeafsCrucible"
+		],
+		"client": [
+			"leaf.iceandfire.LeafsCrucibleClient"
+		],
+		"fabric-datagen": [
+			"leaf.iceandfire.LeafsCrucibleDataGenerator"
+		],
+		"rei_client": [
+			"leaf.iceandfire.rei.LeafsCrucibleREIPlugin"
+		]
+	},
+	"mixins": [
+		"leafs-crucible.mixins.json",
+		{
+			"config": "leafs-crucible.client.mixins.json",
+			"environment": "client"
+		}
+	],
+	"depends": {
+		"fabricloader": ">=0.17.2",
+		"minecraft": "~1.21.5",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*",
+		"roughlyenoughitems": "*"
+	}
+}

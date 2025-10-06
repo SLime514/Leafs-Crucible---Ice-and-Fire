@@ -1,0 +1,7 @@
+{
+  "type":"leafs-crucible:temperature_furnace",
+  "ingredient": "leafs-crucible:frost_diamond",
+  "result": {"id": "leafs-crucible:frost_ingot"},
+  "experience": 10,
+  "temperature": 5
+}

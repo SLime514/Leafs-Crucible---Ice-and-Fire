@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:ice_soul"
+    },
+    "title": "冻'死'了",
+    "description": "获得冰魄",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "leafs-crucible:frost/frost",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:ice_soul"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

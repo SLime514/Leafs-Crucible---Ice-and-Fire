@@ -1,0 +1,27 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:magma_pickaxe"
+    },
+    "title": "矿物自由",
+    "description": "把火焰魔法注入金镐",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "parent": "leafs-crucible:bathing_fire/magma_eye",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:magma_pickaxe"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "type": "leafs-crucible:temperature_furnace",
+  "ingredient": "leafs-crucible:raw_obsidian",
+  "result": {
+    "id": "leafs-crucible:melt_raw_obsidian"
+  },
+  "experience": 10,
+  "temperature": 8
+}

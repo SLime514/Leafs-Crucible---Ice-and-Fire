@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "leafs-crucible:bathing_fire_rod",
+    "leafs-crucible:magma_eye"
+  ],
+  "result": {
+    "id": "leafs-crucible:magma_wand"
+  }
+}

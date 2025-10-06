@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:frost_core"
+    },
+    "title": "凛冬将至",
+    "description": "获得霜冻核心",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "leafs-crucible:frost/ice_soul",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:frost_core"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

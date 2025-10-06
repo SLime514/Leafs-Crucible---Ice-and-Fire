@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:bathing_fire_powder"
+    },
+    "title": "魔法!精华!",
+    "description": "要是不小心吸进去一点会燃起来的!",
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "leafs-crucible:bathing_fire/bathing_fire",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:bathing_fire_powder"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

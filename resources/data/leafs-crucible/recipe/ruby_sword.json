@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": "minecraft:stick",
+    "X": "leafs-crucible:ruby"
+  },
+  "result": {
+    "id": "leafs-crucible:ruby_sword"
+  }
+}

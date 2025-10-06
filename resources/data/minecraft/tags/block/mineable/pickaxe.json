@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "leafs-crucible:magma_rock",
+    "leafs-crucible:temperature_furnace",
+    "leafs-crucible:nether_ruby_ore",
+    "leafs-crucible:ruby_block",
+    "leafs-crucible:nether_iron_ore"
+  ]
+}

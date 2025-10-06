@@ -1,0 +1,7 @@
+{
+  "type":"leafs-crucible:temperature_furnace",
+  "ingredient": "leafs-crucible:incomplete_bathing_fire_upgrade_smithing_template",
+  "result": {"id": "leafs-crucible:bathing_fire_upgrade_smithing_template"},
+  "experience": 10,
+  "temperature": 8
+}

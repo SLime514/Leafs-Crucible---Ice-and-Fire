@@ -1,0 +1,28 @@
+{
+  "display": {
+    "icon": {
+      "id": "leafs-crucible:frost_wand"
+    },
+    "title": "万里冰封!",
+    "description": "获得霜冻魔杖",
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "parent": "leafs-crucible:frost/frost_core",
+  "criteria": {
+    "fire_wand": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": [
+              "leafs-crucible:frost_wand"
+            ]
+          }
+        ]
+      }
+    }
+  }
+}

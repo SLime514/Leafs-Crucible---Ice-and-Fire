@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "/#/",
+    "#X#",
+    "/#/"
+  ],
+  "key": {
+    "#": "minecraft:obsidian",
+    "X": "minecraft:netherite_chestplate",
+    "/": "leafs-crucible:obsidian_stick"
+  },
+  "result": {
+    "id": "leafs-crucible:obsidian_chestplate"
+  }
+}

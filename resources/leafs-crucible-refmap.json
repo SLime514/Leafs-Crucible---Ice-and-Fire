@@ -1,0 +1,26 @@
+{
+  "mappings": {
+    "leaf/iceandfire/mixin/ExampleMixin": {
+      "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+    },
+    "leaf/iceandfire/mixin/ItemEntityMixin": {
+      "tick": "Lnet/minecraft/class_1542;method_5773()V"
+    },
+    "leaf/iceandfire/mixin/PlayerEntityMixin": {
+      "isInvulnerableTo": "Lnet/minecraft/class_1657;method_5679(Lnet/minecraft/class_3218;Lnet/minecraft/class_1282;)Z"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "leaf/iceandfire/mixin/ExampleMixin": {
+        "loadWorld": "Lnet/minecraft/server/MinecraftServer;method_3735()V"
+      },
+      "leaf/iceandfire/mixin/ItemEntityMixin": {
+        "tick": "Lnet/minecraft/class_1542;method_5773()V"
+      },
+      "leaf/iceandfire/mixin/PlayerEntityMixin": {
+        "isInvulnerableTo": "Lnet/minecraft/class_1657;method_5679(Lnet/minecraft/class_3218;Lnet/minecraft/class_1282;)Z"
+      }
+    }
+  }
+}
